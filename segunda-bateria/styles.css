@@ -18,4 +18,46 @@ body {
   width: 100%;
 }
 
-/* Escreva a partir daqui */
+.text{
+  height: 100vh;
+  width: 50%;
+}
+
+.image{
+  height: 100vh;
+  width: 50%;
+}
+
+.p.back{
+  font-size: 30px;
+  color: black;
+  font-weight: bold;
+  align-items: center;
+  text-align: center;
+  background-color: white;
+}
+
+.p.front{
+  font-size: 30px;
+  color: black;
+  font-weight: bold;
+  align-items: center;
+  text-align: center;
+  background-color: white;
+}
+
+.p.font{
+  font-size: 30px;
+  color: black;
+  font-weight: bold;
+  align-items: center;
+  text-align: center;
+  position: absolute;
+  background-color: white;
+}
+
+img{
+  width: 100vh;
+  height: 70%;
+  position: absolute;
+}
